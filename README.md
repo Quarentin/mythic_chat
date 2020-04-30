@@ -89,3 +89,11 @@ end)
 ```
 
 Can modify the calls as needed to work on your framework but there it is.
+
+
+-------------------
+This script create @Alzar
+
+I just copied and share.Because he deleted the repository.
+
+Thanks for everthing Alzar :P
